@@ -1,7 +1,5 @@
 # Data_Science_Project_Stock_Sentiment_Classification | Predicting market behavior from tweets
 
-This is an Academic project of Data Science Pos Degree
-
 **Overview | Project Objective**
 
 The goal of this project is to develop an NLP model capable of predicting market sentiment based on tweets. In summary, using NLP techniques, the model must be able to classify tweets received as input and predict, for each tweet, whether it describes a Bearish (0), Bullish (1), or Neutral (2) attitude.
