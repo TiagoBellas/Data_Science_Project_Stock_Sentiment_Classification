@@ -14,7 +14,7 @@ The data is divided in a file for training “train.csv”, and another file for
   • Test (299 lines): The structure of these dataset is the same as the train set, except that it does not contain the “label” column.
 
 
-**SImplementation**
+**Implementation**
 
 - Data Exploration
 - Corpus split
