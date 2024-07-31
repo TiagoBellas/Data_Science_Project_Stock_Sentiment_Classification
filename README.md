@@ -21,11 +21,11 @@ The data is divided in a file for training “train.csv”, and another file for
 - Data Preprocessing
 - Feature Engineering
 - Classification models:
-  Logistic Regression
-  KNN
-  Naive-Bayes
-  Random Forest
-  Multilayer Perceotron - ANN  
+  - Logistic Regression
+  - KNN
+  - Naive-Bayes
+  - Random Forest
+  - Multilayer Perceotron - ANN  
 - Model Valuation
 
 
