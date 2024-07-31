@@ -1,6 +1,6 @@
 # Data_Science_Project_Stock_Sentiment_Classification | Predicting market behavior from tweets
 
-This is a Academic project of Data Science Pos Degree
+This is an Academic project of Data Science Pos Degree
 
 **Overview | Project Objective**
 
